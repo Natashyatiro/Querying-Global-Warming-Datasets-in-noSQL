@@ -25,6 +25,7 @@ surveys on the glacier. Sort the output in alphabetic order of {name}.
 For each year (2010 to 2014), display a list of {area}, {year}, average {value} of 
 temperature change of the ASEAN countries. Include the overall average of 
 temperature change of all the ASEAN countries of each year.
+
 ![image](https://user-images.githubusercontent.com/84263856/201738699-57caffe0-b4e7-434d-9580-eb0f0a3215e3.png)
 
 ## Datasets Sources:
